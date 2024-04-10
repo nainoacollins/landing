@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Black+Ops+One&display=swap');
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/form.css");
+
+body {
+  font-family: Black Ops One, sans-serif;
+  font-size: 18px;
+  margin: 0px;
+  background-color: #1d1d1d;
+}
+h3 {
+  font-family: Audiowide, sans-serif;
+  font-weight: bold;
+}
+h2 {
+font-size: 30px;
+color : white;
+}
+a {
+  text-decoration: none;
+}
